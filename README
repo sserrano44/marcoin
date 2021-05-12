@@ -1,0 +1,14 @@
+
+101 smart contract coding
+
+https://hardhat.org/tutorial/
+
+https://docs.openzeppelin.com/contracts/4.x/erc20
+
+
+
+## RUN DEPLOY ##
+npx hardhat run scripts/deploy.js --network mainnet
+
+npx hardhat run scripts/deploy.js --network rinkeby
+
